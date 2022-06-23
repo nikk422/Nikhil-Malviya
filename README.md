@@ -80,5 +80,6 @@
 <p align="center">
 	<a href="https://www.linkedin.com/in/nikhil-malviya-942607195/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/nikk_vishwa_44/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://github.com/nikk422"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="github"/></a>
+	
+<a href="https://twitter.com/NikhilM21013002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nikhil" height="35" width="40" /></a>
 </p>
