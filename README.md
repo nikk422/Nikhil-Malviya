@@ -9,7 +9,7 @@
 
 
 -✔ Callme: ***Nikhil Malviya*** 😊 <br>
-✔ 🌱 I’m currently learning **React.JS**<br>
+✔ 🌱 I’m **React.JS Developer**<br>
 ✔ 👨‍💻 All of my projects are available at [https://github.com/nikk422](https://github.com/nikk422)<br>
 ✔ 📝 I regularly write blogs on [https://nikhil-malviya.hashnode.dev/](https://nikhil-malviya.hashnode.dev/)<br>
 ✔ 📫 How to reach me **nikmalviya422@gmail.com**<br>
